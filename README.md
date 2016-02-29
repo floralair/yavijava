@@ -3,6 +3,8 @@
 
 Welcome to the YAVI Java API
 
+Note: install Lombok from https://projectlombok.org/ into your IDE to make yavijava compile.
+
 ## WHAT IS YAVI JAVA API?
 It is a fork of the VI Java API which is a set of Java libraries that aim to ease the usage of VI 
 SDK Web Services interfaces. It's now open-sourced under a mixed BSD license and Apache-2.0 license.
